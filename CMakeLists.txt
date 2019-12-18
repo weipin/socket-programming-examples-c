@@ -1,7 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(Socket)
-project(socket
-        LANGUAGES C)
+project(socket)
 
 set(CMAKE_CXX_FLAGS_DEBUG_INIT "-Wall -Wextra")
 
